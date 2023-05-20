@@ -1,0 +1,16 @@
+/* Using Styles That Couldn't Do With Bootstrap Only */
+
+body {
+  /* Giving The Whole Screen A Gradient Background */
+  background: linear-gradient(#281eff, #2dff8c) no-repeat fixed;
+  background-size: cover;
+}
+
+h1 {
+  font-family: "Satisfy", sans-serif;
+  text-shadow: 0px 0px 36px #00000087;
+}
+
+h2 {
+  font-size: 1.25rem !important;
+}
